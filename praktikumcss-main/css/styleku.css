@@ -10,7 +10,6 @@ body {
     color: #333333;
 }
 
-/* Header Orange (Atas) */
 #header {
     background-color: #f2b766;
     padding: 15px;
@@ -25,7 +24,6 @@ body {
     margin: 0;
 }
 
-/* Quote Kuning Full Width Mentok Kanan-Kiri */
 .quote-full {
     background-color: #ffd700;
     width: 100%;
@@ -44,7 +42,6 @@ body {
     color: #000000;
 }
 
-/* Navigasi */
 .menu-nav {
     text-align: center;
     margin-bottom: 15px;
@@ -62,7 +59,6 @@ body {
     text-decoration: underline;
 }
 
-/* Gambar Atas */
 .gambar {
     background-color: #e6e6fa;
     border: 1px solid #b0b0b0;
@@ -81,7 +77,6 @@ body {
     vertical-align: middle;
 }
 
-/* Teks Paragraf & Drop Cap */
 .isi {
     width: 90%;
     max-width: 650px;
@@ -105,7 +100,6 @@ body {
     margin-top: 1px;
 }
 
-/* Style Lilac Bagian Bawah */
 .box-lilac {
     width: 90%;
     max-width: 650px;
@@ -134,7 +128,6 @@ body {
     margin: 3px 0 10px 0;
 }
 
-/* Galeri Foto Lilac */
 .koleksi-lilac {
     text-align: center;
     margin: 20px auto;
@@ -159,7 +152,6 @@ body {
     border-radius: 3px;
 }
 
-/* Promo & Tombol eCommerce */
 .promo-lilac {
     text-align: center;
     padding: 20px 0;
